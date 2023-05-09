@@ -1,1 +1,9 @@
-# final.ipynb has the writing assignment
+# IndiaEconHistory
+
+India celebrated its 75th independence day last year. It is a good time to look back and see how far we have come. In this notebook, we will look at the economic history of India. India has come a long way, from being a highly oppressed colony, India has overcome many challenges and is now one of the fastest growing economies in the world. In our families, almost all of us can realise how much the economic situation has changed over the generations. However, there is still a lot which has to be done. Being one of the most populous countries in the world, India has a lot of potential. It is really important for us to make correct the right policy choices inorder to ensure sustainable economic growth. Inorder to take the correct decisions we believe it is important to analyse the past and present, see the economic trends and learn from it.
+
+
+This notebook provides an analysis of the economic history of India, including sector wise GDP, exchange rates, deposit rates, foreign trades, external debt, notes and coins in circulation, payment systems, GDP across various states, and poverty vs GDP. Despite facing numerous challenges, India has emerged as one of the fastest growing economies in the world.
+
+
+The economic growth of our country has been remarkable. If we consider the other countries in South East Asia, we are way ahead of them. Policies like liberalisation fueled India's growth and saved us from economic crisis. However, there is still a lot of work to be done. We are still very far from being a developed country. Also still there are many people below the poverty line who don't have access to food or proper shelter. Some states have done remarkably well in this area and states which are lagging behind could learn from them. The analysis presented in this notebook can help inform future policy decisions and provide insights on economic trends in India.
